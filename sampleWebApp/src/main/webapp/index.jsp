@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Id Generator</h2>
+<h2>Hello All, Welcome to CGI</h2>
 </body>
 </html>
