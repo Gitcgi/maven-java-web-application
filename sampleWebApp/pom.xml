@@ -100,6 +100,18 @@ Also show cases the 'Simple Logging Framework - slf4j'.</description>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+    		<repository>
+        		<id>central</id>
+        		<name>devopsansiblejfrog-releases</name>
+        		<url>http://137.117.88.166:8081/artifactory/my-maven-repo</url>
+   		 </repository>
+    		<snapshotRepository>
+        		<id>snapshots</id>
+        		<name>devopsansiblejfrog-snapshots</name>
+        		<url>http://137.117.88.166:8081/artifactory/my-maven-repo</url>
+    		</snapshotRepository>
+	</distributionManagement>
 
 
 </project>
