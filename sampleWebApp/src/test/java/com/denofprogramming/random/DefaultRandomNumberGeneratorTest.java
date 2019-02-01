@@ -40,7 +40,7 @@ public class DefaultRandomNumberGeneratorTest
     public void testRandomGenerator()
     {
 	int generatedInt = ((DefaultRandomNumberGenerator)randomGenerator).generateNumber();
-	assertTrue("Generated int was between 5 and 10: ", generatedInt >= 10 && generatedInt <= 15);
+	assertTrue("Generated int was between 5 and 10: ", generatedInt >= 11 && generatedInt <= 15);
     }
 
 }
