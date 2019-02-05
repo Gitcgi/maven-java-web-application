@@ -1,7 +1,7 @@
 <html>
 <head>
 <body bgcolor=white>
-<h2>Welcome to CGI</h2>
+<h2>Welcome to CGI and DEVOPS</h2>
 <p>We have used the below tools for the completion of DevOps cycle.
 Please find the below URLs which will redirect to their respective web-consoles.
 
